@@ -2,7 +2,7 @@ package main.java;
 
 public class assignment1 {
     public static void main(String[] args) {
-        // Variables about yourself
+        // Variables
         String name = "Nyi Nyi Tun";
         int age = 25;
         String city = "Yangon";
